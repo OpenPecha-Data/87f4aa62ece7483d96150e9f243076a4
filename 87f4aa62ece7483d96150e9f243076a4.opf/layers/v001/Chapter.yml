@@ -1,4 +1,8 @@
 id: 7d5e006b52964648b4e2e088a0dc5db3
 annotation_type: Chapter
-revision: '00001'
-annotations: {}
+revision: '00003'
+annotations:
+  5769e3e0ccee4c00a76dd7cd40d4c1fa:
+    span:
+      start: 67
+      end: 103
